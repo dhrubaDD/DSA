@@ -7,6 +7,7 @@ This repository contains my solutions, implementations, and practice problems as
 ## 🛠️ Language
 
 * **C++**
+* **Java**
 
 ## 📂 Topics Covered
 
