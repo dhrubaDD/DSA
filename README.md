@@ -42,6 +42,8 @@ The repository will cover topics such as:
 
 This repository is a **work in progress** and will be updated regularly as I solve more problems and learn new concepts.
 
+so Far i've completed concepts of Arrays- Sorting, Hashing, Algorithms and Binary Search
+
 ## 💡 Approach
 
 For each problem, I aim to:
