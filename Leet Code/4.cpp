@@ -17,7 +17,7 @@ public:
             if(mid2 - 1 >=0) l2=nums2[mid2-1];
             if(mid1<n1) r1=nums1[mid1];
             if(mid2<n2) r2=nums2[mid2];
-            
+        
             if(l1<=r2 && l2<=r1) break;
             else if(l1>r2) high=mid1-1;
             else low=mid1+1;
